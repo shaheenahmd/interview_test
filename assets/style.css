@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+section{
+    padding: 80px 0px;
+}
+
+.btn1{
+    padding: 10px 17px;
+    background-color: rgb(59, 59, 240);
+    color: white;
+    border: none;
+    border-radius: 0px;
+}
+
+.output{
+    background-color: rgb(231, 246, 246);
+    color: black;
+    width: 400px;
+    height: 100px;
+    padding: 15px;
+}
+.pswd{
+    color: black !important;
+}
+
+
+
+.survey-form{
+
+}
+
+.survey-form input{
+    box-shadow: none;
+    outline: none;
+    border-radius: 0px;
+    
+    
+}
+
+.survey-form input:focus{
+    box-shadow: unset;
+}
